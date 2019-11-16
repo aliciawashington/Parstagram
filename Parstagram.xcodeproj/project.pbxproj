@@ -18,6 +18,7 @@
 		BC55BCEA237E445E00BDA35C /* ParstagramUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC55BCE9237E445E00BDA35C /* ParstagramUITests.swift */; };
 		BCCD24CA237F94C600733AA0 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCCD24C9237F94C600733AA0 /* LoginViewController.swift */; };
 		BCCD24CC237F94D600733AA0 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCCD24CB237F94D600733AA0 /* FeedViewController.swift */; };
+		BCCD24CE237FA77600733AA0 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCCD24CD237FA77600733AA0 /* CameraViewController.swift */; };
 		E588800832747CD6911E5A0C /* Pods_Parstagram_ParstagramUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 10E9F78DCE21A4F80C6E9780 /* Pods_Parstagram_ParstagramUITests.framework */; };
 /* End PBXBuildFile section */
 
@@ -63,6 +64,7 @@
 		BC55BCEB237E445E00BDA35C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BCCD24C9237F94C600733AA0 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		BCCD24CB237F94D600733AA0 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
+		BCCD24CD237FA77600733AA0 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 				BC55BCD5237E445E00BDA35C /* Info.plist */,
 				BCCD24C9237F94C600733AA0 /* LoginViewController.swift */,
 				BCCD24CB237F94D600733AA0 /* FeedViewController.swift */,
+				BCCD24CD237FA77600733AA0 /* CameraViewController.swift */,
 			);
 			path = Parstagram;
 			sourceTree = "<group>";
@@ -411,6 +414,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BCCD24CA237F94C600733AA0 /* LoginViewController.swift in Sources */,
+				BCCD24CE237FA77600733AA0 /* CameraViewController.swift in Sources */,
 				BC55BCC8237E445C00BDA35C /* AppDelegate.swift in Sources */,
 				BCCD24CC237F94D600733AA0 /* FeedViewController.swift in Sources */,
 				BC55BCCA237E445C00BDA35C /* SceneDelegate.swift in Sources */,
